@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# ICS Seminar #8 Slides
 
-To start the slide show:
+Inspired by [Arthals](https://github.com/zhuozhiyongde), I create my own ICS slides by [Slidev](https://sli.dev/).
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+These slides focus more on exercises. As for fundamental knowledgements, you can read [Arthals' slides](https://slide.huh.moe/1).
