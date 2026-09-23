@@ -32,6 +32,7 @@ TOC
 
 1. [Introduction](https://firefly-lh.github.io/ICS-Fall26-Slides/00-Intro/)
 2. [Data](https://firefly-lh.github.io/ICS-Fall26-Slides/01-Data/)
+3. [Machine prog I](https://firefly-lh.github.io/ICS-Fall26-Slides/02-Machine_Prog_1/)
 
 
 ---
