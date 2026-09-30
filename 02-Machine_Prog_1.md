@@ -3,7 +3,7 @@ theme: academic
 highlighter: shiki
 title: 02-Machine Prog I
 info: |
-  ICS 2025 Fall Slides
+  ICS 2026 Fall Slides
   Inspired by Arthals
   Presented by Firefly
 presenter: false
