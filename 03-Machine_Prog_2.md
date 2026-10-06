@@ -41,7 +41,7 @@ layout: cover
 
 Homeworks
 
-3.66 主要程序的翻译如下, `NR(n) = 4n+1`, `NC(n) = 3n`
+3.66 主要程序的翻译如下, `NC(n) = 4n+1`, `NR(n) = 3n`
 
 ```c
 # long sum_col(long n, long A[NR(n)][NC(n)], long j)
